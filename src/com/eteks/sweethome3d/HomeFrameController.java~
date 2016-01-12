@@ -1,5 +1,5 @@
 /*
- * HomeFrameController.java 1 sept. 2006 niggas for life!!!
+ * HomeFrameController.java 1 sept. 2006
  *
  * Sweet Home 3D, Copyright (c) 2006 Emmanuel PUYBARET / eTeks <info@eteks.com>
  *
