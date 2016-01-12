@@ -1,0 +1,9 @@
+/gluegen.jar////*////
+/j3dcore.jar////*////
+/j3dutils.jar////*////
+/jogl-all.jar////*////
+/libgluegen-rt.jnilib////*////
+/libjogl_desktop.jnilib////*////
+/libnativewindow_awt.jnilib////*////
+/libnativewindow_macosx.jnilib////*////
+/vecmath.jar////*////

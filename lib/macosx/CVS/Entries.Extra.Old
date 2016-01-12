@@ -1,0 +1,6 @@
+/gluegen-rt.jar////*////
+/jogl.jar////*////
+/libgluegen-rt.jnilib////*////
+/libjogl.jnilib////*////
+/libjogl_awt.jnilib////*////
+/libjogl_cg.jnilib////*////
